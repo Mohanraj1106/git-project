@@ -9,7 +9,6 @@ class Codechef
 	    Scanner sc= new Scanner(System.in);
 	    int a = sc.nextInt();
 	    int b = sc.nextInt();
-	    int lines = a*b*100;
-	    System.out.println(lines);
+	    System.out.println(a*b*100);
 	}
 }
